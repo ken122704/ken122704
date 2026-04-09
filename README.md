@@ -12,8 +12,14 @@
 ---
 
 ## 🌐 Connect  
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/besa-ken-charles-527154243/)
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:kencharlesbesa27@gmail.com)
+<p>
+  <a href="https://www.linkedin.com/in/besa-ken-charles-527154243/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:kencharlesbesa27@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
 
 ---
 
@@ -25,8 +31,10 @@
 ---
 
 ## 📊 Stats  
-![stats](https://github-readme-stats.vercel.app/api?username=ken122704&theme=tokyonight&hide_border=true)  
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ken122704&theme=tokyonight&hide_border=true&layout=compact)
+<p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ken122704&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ken122704&theme=tokyonight" />
+</p>
 
 ---
 
